@@ -1,4 +1,4 @@
-Working through concepts in [The Book](https://doc.rust-lang.org/book/).
+Working through concepts in [The Book](https://doc.rust-lang.org/book/). Study notes in comments alongside code.
 
 `hello world`
 [rusty\/hello\_world at main · msyvr\/rusty](https://github.com/msyvr/rusty/tree/main/hello_world "rusty/hello_world at main · msyvr/rusty")
